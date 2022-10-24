@@ -71,6 +71,7 @@
 
 - [Guilherme Nunes Lopes](https://www.linkedin.com/in/guilherme-nl/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Guilherme-NL)
 
+- [Guilherme Schlindwein Matiola](https://www.linkedin.com/in/guilherme-schlindwein-833214209/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/guilhermesmatiola)
 
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/smol-guilherme)
 
@@ -98,9 +99,9 @@
 
 - [Juan Campos Barezzi](https://www.linkedin.com/in/juanbarezzi/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Jbarezzi)
 
-
 - [Kadson Lima](https://www.linkedin.com/in/kadsonlima/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/KadsonLima)
 
+- [Klaus Dieter Kupper](https://www.linkedin.com/in/klausdk1999/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Klausdk1999)
 
 - [Letícia Gomez Pinheiro](https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Leticia-Pinheiro)
 
